@@ -3,9 +3,15 @@
 
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-    std::cout << "Hello World!\n";
+    string nombre = "Edgar Alexander Pinto Tobar";
+    string carne = "1162420";
+
+    cout << "Nombre: " << nombre << endl;
+    cout << "Carne: " << carne << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
